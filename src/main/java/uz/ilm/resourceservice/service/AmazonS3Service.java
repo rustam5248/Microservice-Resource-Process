@@ -1,4 +1,4 @@
-package uz.epam.resourceservice.service;
+package uz.ilm.resourceservice.service;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.PutObjectRequest;

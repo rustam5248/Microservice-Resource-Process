@@ -1,4 +1,4 @@
-package uz.epam.resourceservice.entity;
+package uz.ilm.resourceservice.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

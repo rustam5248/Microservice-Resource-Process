@@ -1,15 +1,14 @@
-package uz.epam.resourceservice.service.impl;
+package uz.ilm.resourceservice.service.impl;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 import org.springframework.web.multipart.MultipartFile;
-import uz.epam.resourceservice.entity.Resource;
-import uz.epam.resourceservice.repository.ResourceRepository;
-import uz.epam.resourceservice.service.AmazonS3Service;
-import uz.epam.resourceservice.service.ResourceService;
+import uz.ilm.resourceservice.entity.Resource;
+import uz.ilm.resourceservice.repository.ResourceRepository;
+import uz.ilm.resourceservice.service.AmazonS3Service;
+import uz.ilm.resourceservice.service.ResourceService;
 import org.springframework.stereotype.Service;
-
 
 
 @Service

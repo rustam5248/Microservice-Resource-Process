@@ -1,8 +1,7 @@
-package uz.epam.resourceservice.service;
+package uz.ilm.resourceservice.service;
 
-import java.util.List;
 import org.springframework.web.multipart.MultipartFile;
-import uz.epam.resourceservice.entity.Resource;
+import uz.ilm.resourceservice.entity.Resource;
 
 public interface ResourceService {
   Resource saveResource(MultipartFile file);

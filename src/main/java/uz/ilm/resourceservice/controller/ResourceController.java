@@ -1,4 +1,4 @@
-package uz.epam.resourceservice.controller;
+package uz.ilm.resourceservice.controller;
 
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.http.HttpStatus;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
-import uz.epam.resourceservice.entity.Resource;
-import uz.epam.resourceservice.service.ResourceService;
+import uz.ilm.resourceservice.entity.Resource;
+import uz.ilm.resourceservice.service.ResourceService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

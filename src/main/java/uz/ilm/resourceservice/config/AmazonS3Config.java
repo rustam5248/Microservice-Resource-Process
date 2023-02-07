@@ -1,4 +1,4 @@
-package uz.epam.resourceservice.config;
+package uz.ilm.resourceservice.config;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
